@@ -35,5 +35,5 @@ Bem-vindo ao meu perfil do GitHub :)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasalves01&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/douglasalves01/douglasalves01/blob/output/github-contribution-grid-snake.svg)
 
