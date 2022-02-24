@@ -34,5 +34,5 @@ Bem-vindo ao meu perfil do GitHub :)
     
 </div>
   
-    ![Snake animation](https://github.com/douglasalves01/douglasalves01/blob/output/github-contribution-grid-snake.svg)
+    
 
