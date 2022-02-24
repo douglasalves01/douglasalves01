@@ -25,6 +25,8 @@ Bem-vindo ao meu perfil do GitHub :)
 ##  Momento
 
 - 🌱 Atualmente estou aprendendo MongoDB, Node.js e React
+- 🌎 Buscando a fluência no inglês
+
 
 <!--
 <div justify-content="space-between">
