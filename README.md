@@ -26,17 +26,4 @@ Bem-vindo ao meu perfil do GitHub :)
 
 - 🌱 Atualmente estou aprendendo MongoDB, Node.js e React
 - 🌎 Buscando a fluência no inglês
-
-
-<!--
-<div justify-content="space-between">
-  <a href="https://github.com/douglasalves01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasalves01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasalves01&layout=compact&langs_count=7&theme=github_dark"/>
-    
-</div>
--->
-
-  
-    
-
+- 🦁 Better every day
