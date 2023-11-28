@@ -25,6 +25,6 @@ Bem-vindo ao meu perfil do GitHub :)
 
 ##  Momento
 
-- 🌱 Atualmente estou aprendendo Node.js, MySQL e React
+- 🌱 Atualmente estou aprendendo Node.js, Vue, Angular
 - 🌎 Buscando a fluência no inglês
 - 🦁 Better every day
