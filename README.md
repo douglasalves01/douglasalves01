@@ -23,6 +23,6 @@ Bem-vindo ao meu perfil do GitHub :)
 
 ##  Momento
 
-- 🌱 Atualmente estou aprendendo Node.js, Vue, Angular
+- 🌱 Atualmente estou estudando Java e Angular
 - 🌎 Buscando a fluência no inglês
 - 🦁 Better every day
