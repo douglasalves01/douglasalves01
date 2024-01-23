@@ -26,6 +26,6 @@ Bem-vindo ao meu perfil do GitHub :)
 
 ##  Momento
 
-- 🌱 Atualmente estou estudando Vue 3
+- 🌱 Atualmente estou estudando Vue 3, Angular e Java Spring Boot
 - 🌎 Buscando a fluência no inglês
 - 🦁 Better every day
