@@ -27,6 +27,6 @@ Bem-vindo ao meu perfil do GitHub :)
 
 ##  Momento
 
-- 🌱 Atualmente estou estudando NodeJs, Typescript e React 
+- 🌱 Atualmente estou estudando Java e AWS 
 - 🌎 Buscando a fluência no inglês
 - 🦁 Better every day
